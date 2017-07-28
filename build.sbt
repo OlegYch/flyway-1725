@@ -1,0 +1,2 @@
+libraryDependencies += "org.flywaydb"                  % "flyway-core"                      % "4.2.0"
+libraryDependencies += "mysql"                         % "mysql-connector-java"             % "5.1.43"
